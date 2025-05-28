@@ -1,4 +1,1 @@
-# first-demo
-This is my first Git Repository.
-<br>
-Author - Najema Pathan
+# PowerBi_dashboard_project
